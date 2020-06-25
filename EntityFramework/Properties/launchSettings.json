@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EntityFramework": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\extaz\\source\\repos\\EntityFramework\\EntityFramework"
+    }
+  }
+}
